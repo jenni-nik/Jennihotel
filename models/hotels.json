@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "name": "Grand Hotel",
+    "location": "New York",
+    "price": 150
+  },
+  {
+    "id": 2,
+    "name": "Ocean View",
+    "location": "California",
+    "price": 200
+  },
+  {
+    "id": 3,
+    "name": "Mountain Inn",
+    "location": "Colorado",
+    "price": 333
+  },
+  {
+    "id": 4,
+    "price": 333
+  }
+]
